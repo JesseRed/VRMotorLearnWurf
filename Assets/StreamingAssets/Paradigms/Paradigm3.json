@@ -1,6 +1,6 @@
 {
-    "numBalls": 3,
-    "duration_in_sec": 15,
+    "numBalls": 9999,
+    "duration_in_sec": 600,
     "target_size": 0.3,
     "show_inner_rings": false,
     "keep_target_ring_constant": false,
