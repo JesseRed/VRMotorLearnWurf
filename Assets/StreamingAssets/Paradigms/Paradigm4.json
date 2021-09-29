@@ -37,7 +37,7 @@
     "hand_tremor_Z" : 0,
     "hand_tremor_freq" : 0,
     "Adaptive": 0,
-    "desired_hit_rate": 0.95
+    "desired_hit_rate": 1.00
 }
 
 
